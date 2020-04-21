@@ -1,0 +1,11 @@
+.idea/
+node_modules/
+.DS_Store
+assets/js/salesman.js
+rdo/
+desktop.ini
+
+# Don't remove, please.
+crowdin.yml
+logs/
+update-langs.sh
